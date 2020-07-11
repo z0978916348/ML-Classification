@@ -12,6 +12,8 @@ kaggle : https://www.kaggle.com/c/nthuds2020hw3-1
 		2 x ( precision x recall / precision + recall) 
 
 
+# photo
+
 ![](dac3999-fig-0001-m.jpg)
 
 ![](XGBoost.jpg)
