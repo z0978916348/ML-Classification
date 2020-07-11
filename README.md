@@ -10,3 +10,8 @@ kaggle : https://www.kaggle.com/c/nthuds2020hw3-1
 # Evaluation:
 	F1-score:
 		2 x ( precision x recall / precision + recall) 
+
+
+![](dac3999-fig-0001-m.jpg)
+
+![](XGBoost.jpg)
